@@ -18,4 +18,4 @@ Projeto desenvolvido no bloco 6 de Fundamentos de Desenvolvimento Web em dupla c
 
 1. Abrir o arquivo index.html com um navegador ou;
 
-2. Acesse pelo link GitPages: 
+2. Acesse pelo link GitPages: https://marianasaraiva.github.io/trybe-project-trybewarts/
