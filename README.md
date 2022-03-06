@@ -1,12 +1,13 @@
-# Projeto Arte com Pixels
+# Projeto Trybewarts
 Projeto desenvolvido no bloco 6 de Fundamentos de Desenvolvimento Web em dupla com a aluna Juliana Miranda
 
 
 ## Habilidades
 
-- Manipular Javascript
-- Manipular o DOM
-- Manipular CSS
+- Criar formulários em HTML;
+- Utilizar CSS Flexbox para criar layouts flexíveis;
+- Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
+- Construir páginas que alteram o seu layout de acordo com a orientação da tela;
 
 
 ## O que foi desenvolvido
